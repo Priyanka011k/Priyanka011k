@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me vishwakramapriyanka971@gmail.com
+- 📫 How to reach me vishwakarmapriyanka971@gmail.com
 
 <!---
 Priyanka011k/Priyanka011k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
