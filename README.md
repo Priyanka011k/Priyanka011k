@@ -30,7 +30,7 @@
 ## 🌐 Connect with Me  
 💼 [LinkedIn](https://www.linkedin.com/in/priyanka-vishwakarma-9b8974280/)  
 📧 **Email:** vishwakarmapriyanka971@gmail.com  
-🔗 [Portfolio](https://your-portfolio-link.com)  
+🔗 [Portfolio](https://github.com/Priyanka011k/Portfolio/tree/main/Portfolio2)  
 
 ---
 
