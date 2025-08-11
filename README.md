@@ -26,25 +26,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyanka011k&show_icons=true&theme=radical)  
-
----
-
-## 📈 GitHub Streak  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Priyanka011k&theme=radical)  
-
----
-
-## 📂 Top Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanka011k&layout=compact&theme=radical)  
-
----
-
-## 📊 Contribution Graph  
-![Priyanka's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Priyanka011k&theme=radical)  
-
----
 
 ## 🌐 Connect with Me  
 💼 [LinkedIn](https://www.linkedin.com/in/priyanka-vishwakarma-9b8974280/)  
