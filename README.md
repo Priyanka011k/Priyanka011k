@@ -27,22 +27,22 @@
 ---
 
 ## 📊 GitHub Stats  
-![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
+![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyanka011k&show_icons=true&theme=radical)  
 
 ---
 
 ## 📈 GitHub Streak  
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=Priyanka011k&theme=radical)  
 
 ---
 
 ## 📂 Top Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanka011k&layout=compact&theme=radical)  
 
 ---
 
 ## 📊 Contribution Graph  
-![Priyanka's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=radical)  
+![Priyanka's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Priyanka011k&theme=radical)  
 
 ---
 
